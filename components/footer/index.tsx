@@ -5,7 +5,7 @@ const Footer = () => {
           
       <div className="site-footer__bottom">
         <div className="container">
-          <p>Online Shop ALL RIGHTS RESERVED.</p>
+          <p>© 2024 online shop.All rights reserved.</p>
         </div>
       </div>
     </footer>
